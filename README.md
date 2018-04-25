@@ -51,3 +51,4 @@ You will notice that even if children components change colors without their par
 Several different solution branches have been provided. Please complete your own solution before taking a look at them:
   - Did your's match any of the same patterns, or was it a novel solution?
   - How could we make our application more DRY?
+<p data-visibility='hidden'>PHRG Objectives</p>
